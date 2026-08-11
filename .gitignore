@@ -1,0 +1,31 @@
+# Datasets
+UTKFace/
+utkface_updated/
+utkface_senior/
+Hair Length Dataset/
+clean_hair_dataset/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+seniorapp/
+myenv/
+
+# Logs / generated data
+logs/
+*.csv
+
+# TensorFlow / Keras temporary files
+*.h5
